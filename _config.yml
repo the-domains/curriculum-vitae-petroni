@@ -1,0 +1,28 @@
+name: Curriculum Vitae Petroni
+favicon: null
+layout_spectrum: 0.23979118280112743
+typography_spectrum: 0.19003200670704246
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.0851037718821317
+  lightness: 0.3740344967227429
+  saturation: 0.6659926243592054
+  rhythmicContrast: 0.8143836592789739
+purpose: []
